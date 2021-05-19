@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+.line {
+    height: 4px;
+    background-color: #C51162;
+    width: 295px;
+    margin: 8px auto;
+}
+
+#paintings {
+    margin: 15px;
+}
+
+img {
+    width: 350px;
+    height: 370px;
+}
+
+#2ndwebsite {
+    font-size: 30px;
+}
